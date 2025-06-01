@@ -1,6 +1,7 @@
 '''
 Write a program to find the smallest of three numbers.
 
+
 Get three integer inputs: n1, n2 and n3.
 Find the smallest number and display it.
 
